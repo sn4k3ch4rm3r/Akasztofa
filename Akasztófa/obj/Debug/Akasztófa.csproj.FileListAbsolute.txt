@@ -1,0 +1,14 @@
+D:\Users\Boldizsar\C#\Akasztófa\Akasztófa\bin\Debug\Akasztófa.exe.config
+D:\Users\Boldizsar\C#\Akasztófa\Akasztófa\bin\Debug\Akasztófa.exe
+D:\Users\Boldizsar\C#\Akasztófa\Akasztófa\bin\Debug\Akasztófa.pdb
+D:\Users\Boldizsar\C#\Akasztófa\Akasztófa\obj\Debug\Akasztófa.csprojAssemblyReference.cache
+D:\Users\Boldizsar\C#\Akasztófa\Akasztófa\obj\Debug\Akasztófa.csproj.CoreCompileInputs.cache
+D:\Users\Boldizsar\C#\Akasztófa\Akasztófa\obj\Debug\Akasztófa.exe
+D:\Users\Boldizsar\C#\Akasztófa\Akasztófa\obj\Debug\Akasztófa.pdb
+D:\Users\Boldizsar\C#\Akasztofa\Akasztófa\bin\Debug\Akasztófa.exe.config
+D:\Users\Boldizsar\C#\Akasztofa\Akasztófa\bin\Debug\Akasztófa.exe
+D:\Users\Boldizsar\C#\Akasztofa\Akasztófa\bin\Debug\Akasztófa.pdb
+D:\Users\Boldizsar\C#\Akasztofa\Akasztófa\obj\Debug\Akasztófa.csprojAssemblyReference.cache
+D:\Users\Boldizsar\C#\Akasztofa\Akasztófa\obj\Debug\Akasztófa.csproj.CoreCompileInputs.cache
+D:\Users\Boldizsar\C#\Akasztofa\Akasztófa\obj\Debug\Akasztófa.exe
+D:\Users\Boldizsar\C#\Akasztofa\Akasztófa\obj\Debug\Akasztófa.pdb
